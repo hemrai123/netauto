@@ -1,5 +1,5 @@
-mgmt: 10.0.0.000
-changed
+mgmt: 10.0.0.2222
+
 sdn_controller: 10.0.1.111
 vlans:
 	red:
